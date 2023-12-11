@@ -1,9 +1,11 @@
-# NASA Near Earth Objects (NEOs) Classification
+# NASA Near Earth Objects (NEOs) Classification 
+**Coded in R using RStudio**
+
 This project gets Data from NASA API and conducts a supervised learning experiment.
 Near-Earth objects (NEOs) are asteroids or comets that orbit the Sun and whose orbits come close to that of
 Earth’s. Of the more than 600,000 known asteroids in our Solar System, more than 20,000 are NEOs(The
 European Space Agency,2021). The aim of this coursework is to classify, potentially hazardous asteroids and
-comets, according to the risk of impacting earth.
+comets, according to the risk of impacting earth. 
 
 ## Classfication information
 
